@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const appTitle = 'Form Styling Demo';
+    const appTitle = 'My App';
     return MaterialApp(
       title: appTitle,
       home: Scaffold(
